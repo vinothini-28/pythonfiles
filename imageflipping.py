@@ -1,3 +1,8 @@
+#this code is about image processing -transpose,rotate,grayscale
+
+
+
+
 from PIL import Image
 import cv2
 def transpose_image(im,im1):
